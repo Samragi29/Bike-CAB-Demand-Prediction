@@ -1,0 +1,5 @@
+Model,R2,MAE,RMSE
+Linear Regression (basic),0.306,53.561,70.689
+Linear Regression (hour one-hot),0.654,35.15,49.913
+KNN Regressor,0.595,36.197,54.023
+Decision Tree Regressor,0.897,15.175,27.203
